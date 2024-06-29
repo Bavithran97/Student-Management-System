@@ -1,3 +1,4 @@
+# LIVE URL : https://667f9ee7556142d8776a40c0--splendid-selkie-8eb68b.netlify.app/
 # STUDENT MANAGEMENT SYSTEM
 
 Welcome to the Student Management System, a robust solution crafted to streamline educational institution operations, optimize student management, and facilitate effective communication among stakeholders. Leveraging the power of the MERN stack (MongoDB, Express.js, React.js, Node.js), this web-based application offers a multitude of features designed to enhance administrative efficiency and academic excellence.
