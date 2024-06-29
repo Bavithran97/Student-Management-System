@@ -41,7 +41,7 @@ Before getting started, ensure you have the following prerequisites installed on
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/vatsalya-vyas/Student-Management-System.git
+    https://github.com/Bavithran97/Student-Management-System.git
     ```
 
 2. **Navigate to the Project Directory:**
